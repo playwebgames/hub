@@ -1,2 +1,2 @@
-# hub
+# hub.github.io
 HUB
